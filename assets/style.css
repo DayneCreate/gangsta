@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: gray;
+}
+
+.container{
+	width: 1000px;
+	height: 1000px;
+	background-color: rgba(255,0,0,0.2);
+	border: 1px red dashed;
+	margin: 0 auto;
+}
+
+.content{
+	width: 650px;
+	height: 900px;
+	border: 1px orange dotted;
+	background-color: white;
+}
+
+.nav{
+	background-color: gray;
+	width:650px;
+}
+
+.nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav a{
+	display:;
+	text-decoration: none;
+	color: white;
+}
